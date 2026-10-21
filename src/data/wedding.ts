@@ -3,14 +3,15 @@
 export const wedding = {
   bride: "Lahiru",
   groom: "Nipuni",
+  brideFamily: "Mr. & Mrs. Perera",
+  groomFamily: "Mr. & Mrs. Silva",
   monogram: { first: "L", second: "N" },
   familiesLine: "Together with their families",
   invitationWording:
-  "Together with their families, Lahiru and Nipuni request the pleasure of your company at their wedding celebration.",
-  coverWording: "request the pleasure of your company at their wedding celebration",
-  blessingMessage:
-  "With the blessings of our families, we joyfully invite you to celebrate the beginning of our new journey together.",
-  closingMessage: "Your presence will make our special day even more memorable.",
+  "With the blessings of their beloved parents, Mr. & Mrs. Perera request the pleasure of your company at the wedding of their son, Lahiru, and Mr. & Mrs. Silva request the pleasure of your company at the wedding of their daughter, Nipuni, as they begin their beautiful journey together in marriage.",
+  coverWording: "as they begin their beautiful journey together in marriage",
+  blessingMessage: "With the blessings of their beloved parents",
+  closingMessage: "Your presence and blessings will make their special day even more memorable.",
   date: {
     long: "12 December 2026",
     short: "12 · 12 · 2026",

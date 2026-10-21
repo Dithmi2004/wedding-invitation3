@@ -12,9 +12,9 @@ export function ClosingSection() {
         {wedding.closingMessage}
       </motion.p>
       <motion.div {...reveal(0.06)} className="mt-10">
-        <p className="text-[18px] italic text-ink/65">With love,</p>
-        <p className="mt-1 font-script text-[54px] leading-tight text-maroon sm:text-[68px]">
-          {wedding.bride} &amp; {wedding.groom}
+        <p className="text-[18px] italic text-ink/65">With love and gratitude,</p>
+        <p className="mt-3 text-[14px] font-semibold tracking-wide text-ink/80">
+          The Perera &amp; Silva Families
         </p>
       </motion.div>
       <motion.div {...reveal(0.1)} className="mt-6 flex flex-col items-center">
